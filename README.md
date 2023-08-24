@@ -49,6 +49,7 @@ This project delves into an extensive exploratory analysis of aviation accident 
 ### Weather Conditions
 ![img](./images/weather_count.png)
 ![img](./images/weather_plot.png)
+![img](./images/aircraft_damage.png)
 
 - IMC (Instrumental meteorological conditions) are incredibily dangerous to fly in, with an average fatality rate of 70%, and 55% of aircrafts being destroyed within those accidents. VMC flights experienced a 14% fatality rate and a 10% rate of aircraft destruction. IMC conditions warrant avoidance, given that even skilled aviators encounter substantial challenges when navigating such conditions. Empirical data unequivocally supports the assertion that venturing into IMC territory is excessively hazardous and should be categorically dismissed or, if circumstances permit, flight plans should be rescheduled.
 
