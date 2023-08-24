@@ -52,9 +52,9 @@ This project delves into an extensive exploratory analysis of aviation accident 
 
 - IMC (Instrumental meteorological conditions) are incredibily dangerous to fly in, with an average fatality rate of 70%, and 55% of aircrafts being destroyed within those accidents. VMC flights experienced a 14% fatality rate and a 10% rate of aircraft destruction. IMC conditions warrant avoidance, given that even skilled aviators encounter substantial challenges when navigating such conditions. Empirical data unequivocally supports the assertion that venturing into IMC territory is excessively hazardous and should be categorically dismissed or, if circumstances permit, flight plans should be rescheduled.
 
-### Air traffic data
+### Air traffic datagi
 ![img](./images/month_count.png)
-![img](./images/wday_count.png)
+![img](./images/day_count.png)
 
 - The months with the highest air-traffic are within the summer. Peaking in July, these are where most accidents happen, all though this is more likely becuase of the volume of flights rather then any direct correlation. The same can be said for weekend flights. It is crucial to take extra precautions to prevent accidents. Ensuring that pilots are well-trained and adequately prepared to handle the increased activity is essential. Additionally, thoughtful scheduling of flights should be prioritized to minimize congestion in the airspace.
 
