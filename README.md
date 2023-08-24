@@ -8,13 +8,13 @@
 
 The purpose of this project is to conduct an Exploratory Data Analysis (EDA) on [aviation accident](https://www.kaggle.com/datasets/khsamaha/aviation-accident-database-synopses) data. Through a thorough examination of the dataset, our aim is to offer customized recommendations to companies based on their safety requirements. Furthermore, our analysis will provide valuable insights for companies in effectively managing and operating an airline, thus minimizing unwarranted risks to both employees and passengers.
 
-[Tableau Interactive Dashboard](https://public.tableau.com/app/profile/lucas.kimball/viz/Cessna_Piper_AccidentData/DashboardAviationSafety)
+[Tableau Interactive Dashboard](https://public.tableau.com/shared/3FGQK2CJW?:display_count=n&:origin=viz_share_link)
 
 ## Business Problem
 
 ![img](./images/istockphoto-1455300089-612x612.jpg)
 
-The startup company **"Landmark Airlines"** is embarking on creating a domestic airline dedicated to serving upper-class Americans and business executives. The company is currently focused on acquiring and operating airplanes for both commercial and private use. They are particularly interested in catering to the needs of private individuals or groups of executives who might require charter services. However, Landmark Airlines lacks sufficient knowledge regarding the potential risks associated with aircraft operations. It is our responsibility to assess and identify the aircraft options with the lowest risks, providing actionable insights for the head of the new aviation division. These insights will play a pivotal role in guiding the company's decisions regarding which aircraft to invest in for this promising new business venture.
+The startup company **"Landmark Airlines"** is embarking on creating a flight experience company. These companies provide short flights or aerial experiences to individuals who are interested in enjoying the sensation of flying or exploring their local area from the sky. The company is currently focused on acquiring and operating airplanes for both commercial and private use. However, Landmark Airlines lacks sufficient knowledge regarding the potential risks associated with aircraft operations. It is our responsibility to assess and identify the aircraft options with the lowest risks, providing actionable insights for the head of the new aviation division. These insights will play a pivotal role in guiding the company's decisions regarding which aircraft to invest in for this promising new business venture.
 
 ***
 Questions to consider:
@@ -52,7 +52,7 @@ This project delves into an extensive exploratory analysis of aviation accident 
 
 - IMC (Instrumental meteorological conditions) are incredibily dangerous to fly in, with an average fatality rate of 70%, and 55% of aircrafts being destroyed within those accidents. VMC flights experienced a 14% fatality rate and a 10% rate of aircraft destruction. IMC conditions warrant avoidance, given that even skilled aviators encounter substantial challenges when navigating such conditions. Empirical data unequivocally supports the assertion that venturing into IMC territory is excessively hazardous and should be categorically dismissed or, if circumstances permit, flight plans should be rescheduled.
 
-### Air traffic datagi
+### Air traffic data
 ![img](./images/month_count.png)
 ![img](./images/day_count.png)
 
@@ -93,6 +93,7 @@ Describe the structure of your repository and its contents, for example:
 │   └── Visualizing_Aviation_Data.ipynb
 ├── data
 │   ├── AviationData.csv
+│   ├── Piper_Cessna_Passengers_aviation.csv
 │   └── cleaned_aviation.csv
 ├── images
 ├── README.md
