@@ -47,7 +47,7 @@ This project delves into an extensive exploratory analysis of aviation accident 
 
 Please reference the Tableau dashboard link within the overview section of the repo:
 
-![img](./images/Safety of Cessna and Piper Aircraft.png)
+![img](./images/Safety_of_Cessna_and_Piper_Aircraft.png)
 
 ## Conclusions
 
