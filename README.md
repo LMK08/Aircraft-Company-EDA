@@ -31,13 +31,25 @@ We are using a filtered and cleaned data set of [aviation accident data](https:/
 
 This project delves into an extensive exploratory analysis of aviation accident data to observe trends in safety. This is valuable for Landmark Airlines' business requirements, as it aids them in gaining a clearer understanding of the industry-defined norms for safety and appropriate business conduct. 
 
-
-## Conclusions
-
 ### Makes and models
 ![img](./images/make_plot.png)
 ![img](./images/cessna_model_plot.png)
 ![img](./images/piper_model_plot.png)
+
+### Weather Conditions
+![img](./images/weather_plot.png)
+
+### Air traffic data
+![img](./images/month_count.png)
+![img](./images/day_count.png)
+
+### Tableau Dashboard
+
+Please reference the Tableau dashboard link within the overview section of the repo:
+
+![img](./images/Safety of Cessna and Piper Aircraft.png)
+
+## Conclusions
 
 - Cessna models have a below average fatality rate, Piper models have an above average rate with a few expections with incredibly low rates. Landmark Airlines should invest in the following aircrafts
     - Cessna 172 
@@ -46,16 +58,7 @@ This project delves into an extensive exploratory analysis of aviation accident 
     - Cessna 170B 
     - Piper PA-18 
 
-### Weather Conditions
-![img](./images/weather_count.png)
-![img](./images/weather_plot.png)
-![img](./images/aircraft_damage.png)
-
 - IMC (Instrumental meteorological conditions) are incredibily dangerous to fly in, with an average fatality rate of 70%, and 55% of aircrafts being destroyed within those accidents. VMC flights experienced a 14% fatality rate and a 10% rate of aircraft destruction. IMC conditions warrant avoidance, given that even skilled aviators encounter substantial challenges when navigating such conditions. Empirical data unequivocally supports the assertion that venturing into IMC territory is excessively hazardous and should be categorically dismissed or, if circumstances permit, flight plans should be rescheduled.
-
-### Air traffic data
-![img](./images/month_count.png)
-![img](./images/day_count.png)
 
 - The months with the highest air-traffic are within the summer. Peaking in July, these are where most accidents happen, all though this is more likely becuase of the volume of flights rather then any direct correlation. The same can be said for weekend flights. It is crucial to take extra precautions to prevent accidents. Ensuring that pilots are well-trained and adequately prepared to handle the increased activity is essential. Additionally, thoughtful scheduling of flights should be prioritized to minimize congestion in the airspace.
 
